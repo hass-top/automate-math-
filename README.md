@@ -1,2 +1,3 @@
-# automate-math-
-hel ow every one this is awer reposetry with my friend for awer project automate AFD and AFN 
+# automate-math
+
+Hello everyone! This is our repository for a collaborative project where we automate Deterministic Finite Automata (DFA) and Non-deterministic Finite Automata (NFA).
