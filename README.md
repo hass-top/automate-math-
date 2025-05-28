@@ -35,4 +35,6 @@ and then execute the app
 python3 main.py
 ```
 
+this is awer first  first project with python 
+we see that they have so much bug but with team we will learn to exdend awer knowledge and be better 
 
