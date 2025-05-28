@@ -7,4 +7,4 @@ Hello everyone! This is our repository for a collaborative project where we auto
 
 ## Installation
 
-git clone 
+git clone https://github.com/hass-top/automate-math-/tree/main/main_project.git
