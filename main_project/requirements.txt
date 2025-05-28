@@ -1,3 +1,4 @@
 PyQt5==5.15.11
 graphviz==0.20.3
 cryptography==43.0.1
+Pillow==10.4.0
