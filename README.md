@@ -6,6 +6,13 @@ Hello everyone! This is our repository for a collaborative project where we auto
 
 
 ## Installation
+
+with your terminal 
 ```git 
 git clone https://github.com/hass-top/automate-math-.git
-'''
+```
+and then user python3 
+```python
+python3 main.py
+```
+
