@@ -22,7 +22,9 @@ On Windows:
 On macOS/Linux:
 ```git 
   source env/bin/activate
-
+```
+uploads the requirements 
+```git 
 pip install -r requirements.txt
 
 cd automate-math-/main_project/
